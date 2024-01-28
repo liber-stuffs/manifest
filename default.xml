@@ -47,6 +47,10 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com" />
 
+  <remote  name="forks"
+           fetch="https://github.com/liber-stuffs"
+           revision="uvite" />
+
   <include name="aosp.xml"/>
   <include name="aospa.xml"/>
   <include name="obsolete.xml"/>
